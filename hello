@@ -1,0 +1,17 @@
+package helloworldapp;
+
+public class HelloWorldApp {
+
+    public static void main(String[] args) {
+        
+        // Printing hello world
+        System.out.println("Hello World"); 
+        
+        // Shows the sum of 2+3
+        System.out.println("The sum of 2+3 is " + 5);
+        
+        // Printing the sum of 7+8
+        System.out.println("The sum of 7+8 is " + (7+8) ); 
+        
+    }
+}
