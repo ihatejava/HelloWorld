@@ -11,7 +11,7 @@ public class HelloWorldApp {
         System.out.println("The sum of 2+3 is " + 5);
         
         // Printing the sum of 7+8
-        System.out.println("The sum of 7+8 is " + (7+8) ); 
+        System.out.println("The sum of 7+8 is " + (7+8) + " Hurr hurr I'm a retard"); 
         
     }
 }
